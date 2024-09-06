@@ -2,8 +2,6 @@
 
 Welcome to **Sky Glide** – a fun, fast-paced game where you guide a bird through an endless series of obstacles. Tap to make the bird flap and soar through the skies, avoiding pipes and earning points!
 
-![Game Screenshot](./screenshot.png)  <!-- Add your game screenshot here -->
-
 ## 🎮 **Gameplay**
 
 In **Sky Glide**, your goal is simple: flap through as many gaps between pipes as possible. Every successful pass through a set of pipes increases your score. But be careful – colliding with the pipes or falling to the ground will end the game!
@@ -20,16 +18,16 @@ To play **Sky Glide**, follow these simple steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Jason-Ampere/sky-glide.git
-    cd sky-glide
+    git clone https://github.com/Jason-Ampere/Sky-Glide.git
+    cd sky-Glide
     ```
 
 2. **Compile and Run the Game:**
     - Make sure you have Java Development Kit (JDK) installed.
     - Compile the game using your preferred IDE or command line:
       ```bash
-      javac FlappyBird.java
-      java FlappyBird
+      javac App.java
+      java App
       ```
 
 3. **Enjoy the game!**
@@ -63,7 +61,8 @@ The game uses the following assets:
 
 ## 🖼️ **Screenshots**
 
-![Screenshot 1](./screenshots/gameplay.png) <!-- Add your screenshot here -->
+![Screenshot 1](./screenshot.png) <!-- Add your screenshot here -->
+
 *The bird soaring through the pipes!*
 
 ## 🤝 **Contributing**
