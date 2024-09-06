@@ -8,7 +8,7 @@ In **Sky Glide**, your goal is simple: flap through as many gaps between pipes a
 
 ### Key Features:
 - **Smooth Bird Animation:** The bird’s flapping wings are animated using a sequence of 4 images, giving it a lively, dynamic feel.
-- **Background Music & Sound Effects:** Enjoy a continuous background soundtrack while playing, and experience explosive sound effects on collisions.
+- **Background Music & Sound Effects:** Enjoy a continuous background soundtrack while playing, and experience bird kill sound effects on collisions.
 - **Simple Controls:** Use the spacebar to make the bird flap. The game automatically restarts after a game over with another tap of the spacebar.
 - **Score Display:** Keep track of your high score as you progress through the game.
 
@@ -44,7 +44,7 @@ To play **Sky Glide**, follow these simple steps:
 The game uses the following assets:
 - **Bird Animation:** A set of 4 images for the bird’s flapping animation.
 - **Background, Pipes, and Game Objects:** Custom pixel art images.
-- **Sound Effects:** Background music and explosion sound effects are added for an immersive experience.
+- **Sound Effects:** Background music and bird kill sound effects are added for an immersive experience.
 
 ## 🛠️ **Features & Future Enhancements**
 
