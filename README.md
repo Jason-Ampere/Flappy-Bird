@@ -57,7 +57,7 @@ The game uses the following assets:
   - Add difficulty levels.
   - Implement a leaderboard system.
   - Introduce different bird skins.
-  - Mobile-friendly controls and UI improvements.
+  - UI improvements
 
 ## 🖼️ **Screenshots**
 
@@ -75,4 +75,4 @@ Contributions are welcome! If you have ideas to improve the game or find bugs, f
 5. Submit a pull request!
 
 
-Enjoy playing **Sky Glide** and feel free to share your high scores with us!
+Enjoy playing **Sky Glide** and feel free to share your high scores with me!
